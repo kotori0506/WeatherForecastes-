@@ -9,7 +9,6 @@ import org.apache.http.client.methods.HttpGet;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.nio.Buffer;
 
 /**
  * Created by ktr on 15/08/18.
